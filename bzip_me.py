@@ -13,6 +13,9 @@ python bzip_me-bit.py <extension without DOT>
 
 e.g.
 python bzip_me.py tif
+
+or 
+python bzip_me.py lev2.cub
 '''
 
 usage = "USAGE: python bzip_me-bit.py <extension without DOT>"
